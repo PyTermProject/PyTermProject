@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250">
+  <foreignObject class="node" x="0" y="-10" width="800" height="250">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            body {
+                font-family: monospace;
+                font-size: 16px;
+                color: #FFFFFF;
+            }
+        </style>
+        <pre style="letter-spacing: 0; line-height:1; overflow-y:none; border-radius: 15px; border: 0; padding:0px 50px; word-break: break-word; background:rgb(48, 52, 70);">
+ ███████████             ███████████
+░░███░░░░░███           ░█░░░███░░░█
+ ░███    ░███ █████ ████░   ░███  ░   ██████  ████████  █████████████
+ ░██████████ ░░███ ░███     ░███     ███░░███░░███░░███░░███░░███░░███
+ ░███░░░░░░   ░███ ░███     ░███    ░███████  ░███ ░░░  ░███ ░███ ░███
+ ░███         ░███ ░███     ░███    ░███░░░   ░███      ░███ ░███ ░███
+ █████        ░░███████     █████   ░░██████  █████     █████░███ █████
+░░░░░          ░░░░░███    ░░░░░     ░░░░░░  ░░░░░     ░░░░░ ░░░ ░░░░░
+               ███ ░███
+              ░░██████
+               ░░░░░░
+        </pre>
+    </body>
+  </foreignObject>
+</svg>
